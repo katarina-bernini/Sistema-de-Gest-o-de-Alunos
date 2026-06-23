@@ -16,7 +16,7 @@ de Conteúdo identificar clientes ideais para ações de engajamento ou suporte 
 - **Loops e Iterações:** Processamento dinâmico de grandes conjuntos de dados utilizando `for`.
 - **Formatação de Strings e Métricas:** Exibição limpa de dados e cálculos de médias aritméticas precisas.
 
-## 🛠️ Como Executar o Projeto
+##  Como Executar o Projeto
 1. Certifique-se de ter o Python 3 instalado na sua máquina.
 2. Clone este repositório.
 3. Execute o comando no seu terminal:
